@@ -53,3 +53,5 @@ python run.py
 2. Open the UI in your broswer:
 
 Open <code>ui/index.html</code> in your web browser to use the application.
+
+****<img width="1920" height="914" alt="image" src="https://github.com/user-attachments/assets/d1e69fff-7039-46ce-b0f7-f6c706e3a088" />
